@@ -50,3 +50,6 @@ print test
 ```
 ## Support
 If you have any questions or feedback about Math Language, please feel free to reach out to us. We hope you enjoy using Math Language and find it useful for your mathematical programming needs.
+
+NOTE:
+This project was made for fun, and to improve my coding knowlegde.
