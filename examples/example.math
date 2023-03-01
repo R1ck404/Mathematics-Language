@@ -1,0 +1,10 @@
+# Defining variables.
+var test is 69
+var defined_value is 0
+
+# Redefining variables.
+defined_value is 1
+
+# Printing variables.
+print defined_value
+print test
